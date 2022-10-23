@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Semi-Bold';
+    src: url('./Panton-Semibold.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bold';
+    src: url('./Panton-Bold.ttf');
+    font-style: normal;
+}
+
+
